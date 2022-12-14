@@ -1,0 +1,523 @@
+Report generated at: 2022-11-06 00:24:14.575517-04:00
+-----------------------------------------
+STARTING PERIOD 1
+-----------------------------------------
+#buy customer orders: 244
+#sell customer orders: 257
+period_volume: 501
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 2
+-----------------------------------------
+#buy customer orders: 261
+#sell customer orders: 238
+period_volume: 499
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 3
+-----------------------------------------
+#buy customer orders: 247
+#sell customer orders: 234
+period_volume: 481
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 4
+-----------------------------------------
+#buy customer orders: 259
+#sell customer orders: 239
+period_volume: 498
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 5
+-----------------------------------------
+#buy customer orders: 257
+#sell customer orders: 227
+period_volume: 484
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 6
+-----------------------------------------
+#buy customer orders: 215
+#sell customer orders: 241
+period_volume: 456
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 7
+-----------------------------------------
+#buy customer orders: 260
+#sell customer orders: 264
+period_volume: 524
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 8
+-----------------------------------------
+#buy customer orders: 247
+#sell customer orders: 267
+period_volume: 514
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 9
+-----------------------------------------
+#buy customer orders: 279
+#sell customer orders: 246
+period_volume: 525
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 10
+-----------------------------------------
+#buy customer orders: 273
+#sell customer orders: 279
+period_volume: 552
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 11
+-----------------------------------------
+#buy customer orders: 228
+#sell customer orders: 259
+period_volume: 487
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 12
+-----------------------------------------
+#buy customer orders: 268
+#sell customer orders: 265
+period_volume: 533
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 13
+-----------------------------------------
+#buy customer orders: 258
+#sell customer orders: 253
+period_volume: 511
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 14
+-----------------------------------------
+#buy customer orders: 271
+#sell customer orders: 241
+period_volume: 512
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 15
+-----------------------------------------
+#buy customer orders: 261
+#sell customer orders: 247
+period_volume: 508
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 16
+-----------------------------------------
+#buy customer orders: 258
+#sell customer orders: 214
+period_volume: 472
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 17
+-----------------------------------------
+#buy customer orders: 247
+#sell customer orders: 260
+period_volume: 507
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 18
+-----------------------------------------
+#buy customer orders: 217
+#sell customer orders: 220
+period_volume: 437
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 19
+-----------------------------------------
+#buy customer orders: 247
+#sell customer orders: 232
+period_volume: 479
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 20
+-----------------------------------------
+#buy customer orders: 238
+#sell customer orders: 243
+period_volume: 481
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 21
+-----------------------------------------
+#buy customer orders: 246
+#sell customer orders: 269
+period_volume: 515
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 22
+-----------------------------------------
+#buy customer orders: 265
+#sell customer orders: 249
+period_volume: 514
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 23
+-----------------------------------------
+#buy customer orders: 278
+#sell customer orders: 202
+period_volume: 480
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 24
+-----------------------------------------
+#buy customer orders: 251
+#sell customer orders: 261
+period_volume: 512
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 25
+-----------------------------------------
+#buy customer orders: 272
+#sell customer orders: 259
+period_volume: 531
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 26
+-----------------------------------------
+#buy customer orders: 249
+#sell customer orders: 257
+period_volume: 506
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 27
+-----------------------------------------
+#buy customer orders: 301
+#sell customer orders: 267
+period_volume: 568
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 28
+-----------------------------------------
+#buy customer orders: 229
+#sell customer orders: 215
+period_volume: 444
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 29
+-----------------------------------------
+#buy customer orders: 234
+#sell customer orders: 261
+period_volume: 495
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 30
+-----------------------------------------
+#buy customer orders: 242
+#sell customer orders: 238
+period_volume: 480
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 31
+-----------------------------------------
+#buy customer orders: 236
+#sell customer orders: 249
+period_volume: 485
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 32
+-----------------------------------------
+#buy customer orders: 236
+#sell customer orders: 231
+period_volume: 467
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 33
+-----------------------------------------
+#buy customer orders: 244
+#sell customer orders: 223
+period_volume: 467
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 34
+-----------------------------------------
+#buy customer orders: 258
+#sell customer orders: 240
+period_volume: 498
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 35
+-----------------------------------------
+#buy customer orders: 233
+#sell customer orders: 256
+period_volume: 489
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 36
+-----------------------------------------
+#buy customer orders: 251
+#sell customer orders: 258
+period_volume: 509
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 37
+-----------------------------------------
+#buy customer orders: 235
+#sell customer orders: 266
+period_volume: 501
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 38
+-----------------------------------------
+#buy customer orders: 266
+#sell customer orders: 252
+period_volume: 518
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 39
+-----------------------------------------
+#buy customer orders: 221
+#sell customer orders: 266
+period_volume: 487
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 40
+-----------------------------------------
+#buy customer orders: 244
+#sell customer orders: 232
+period_volume: 476
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 41
+-----------------------------------------
+#buy customer orders: 274
+#sell customer orders: 265
+period_volume: 539
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 42
+-----------------------------------------
+#buy customer orders: 260
+#sell customer orders: 297
+period_volume: 557
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 43
+-----------------------------------------
+#buy customer orders: 231
+#sell customer orders: 269
+period_volume: 500
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 44
+-----------------------------------------
+#buy customer orders: 239
+#sell customer orders: 263
+period_volume: 502
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 45
+-----------------------------------------
+#buy customer orders: 256
+#sell customer orders: 223
+period_volume: 479
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 46
+-----------------------------------------
+#buy customer orders: 245
+#sell customer orders: 256
+period_volume: 501
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 47
+-----------------------------------------
+#buy customer orders: 240
+#sell customer orders: 251
+period_volume: 491
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 48
+-----------------------------------------
+#buy customer orders: 264
+#sell customer orders: 250
+period_volume: 514
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 49
+-----------------------------------------
+#buy customer orders: 229
+#sell customer orders: 225
+period_volume: 454
+fair value: 1174
+
+
+-----------------------------------------
+STARTING PERIOD 50
+-----------------------------------------
+#buy customer orders: 245
+#sell customer orders: 238
+period_volume: 483
+fair value: 1174
+
+
+-----------------------------------------
+LIQUIDATING POSITIONS...
+-----------------------------------------
+PnLs
+bot1 37132
+bot35 1023
+bot38 1022
+bot11 985
+bot56 979
+bot25 947
+bot39 939
+bot24 919
+bot51 917
+bot4 903
+bot26 894
+bot58 867
+bot33 855
+bot21 850
+bot40 847
+bot16 843
+bot50 822
+bot52 818
+bot60 814
+bot53 808
+bot31 804
+bot59 800
+bot42 791
+bot54 789
+bot55 781
+bot32 775
+bot3 774
+bot7 773
+bot8 761
+bot9 753
+bot20 750
+bot44 739
+bot48 738
+bot37 734
+bot43 726
+bot23 718
+bot49 697
+bot17 695
+bot30 690
+bot5 684
+bot28 675
+bot18 668
+bot46 663
+bot15 658
+bot47 657
+bot41 653
+bot27 628
+bot36 620
+bot57 619
+bot13 616
+bot2 609
+bot22 605
+bot19 594
+bot34 585
+bot12 573
+bot14 573
+bot45 572
+bot6 572
+bot10 531
+bot29 440
+-----------------------------------------
+SCENARIO: fixed
+CUSTOMER ORDER PARAMS
+fair: 1174
+spread: 65
+vol_p: 0.051495077884129
+price_path:
+    1: 1174

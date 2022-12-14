@@ -1,0 +1,654 @@
+Detailed results for team 45:
+Report generated at: 2022-11-06 00:24:14.583861-04:00
+-----------------------------------------
+INFO FOR PERIOD 1
+-----------------------------------------
+bot45 market:
+buy {'price': 735, 'size': 1, 'id': 'bot45'}
+sell {'price': 1204, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -1
+cash: 1204
+PnL: 30
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 2
+-----------------------------------------
+bot45 market:
+buy {'price': 793, 'size': 1, 'id': 'bot45'}
+sell {'price': 1284, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -1
+cash: 1204
+PnL: 30
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 3
+-----------------------------------------
+bot45 market:
+buy {'price': 786, 'size': 1, 'id': 'bot45'}
+sell {'price': 1295, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -1
+cash: 1204
+PnL: 30
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 4
+-----------------------------------------
+bot45 market:
+buy {'price': 713, 'size': 1, 'id': 'bot45'}
+sell {'price': 1298, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -1
+cash: 1204
+PnL: 30
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 5
+-----------------------------------------
+bot45 market:
+buy {'price': 779, 'size': 1, 'id': 'bot45'}
+sell {'price': 1212, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -2
+cash: 2416
+PnL: 68
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 6
+-----------------------------------------
+bot45 market:
+buy {'price': 793, 'size': 1, 'id': 'bot45'}
+sell {'price': 1212, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -3
+cash: 3628
+PnL: 106
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 7
+-----------------------------------------
+bot45 market:
+buy {'price': 729, 'size': 1, 'id': 'bot45'}
+sell {'price': 1292, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -3
+cash: 3628
+PnL: 106
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 8
+-----------------------------------------
+bot45 market:
+buy {'price': 780, 'size': 1, 'id': 'bot45'}
+sell {'price': 1203, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -4
+cash: 4831
+PnL: 135
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 9
+-----------------------------------------
+bot45 market:
+buy {'price': 780, 'size': 1, 'id': 'bot45'}
+sell {'price': 1289, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -4
+cash: 4831
+PnL: 135
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 10
+-----------------------------------------
+bot45 market:
+buy {'price': 757, 'size': 1, 'id': 'bot45'}
+sell {'price': 1233, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -5
+cash: 6064
+PnL: 194
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 11
+-----------------------------------------
+bot45 market:
+buy {'price': 745, 'size': 1, 'id': 'bot45'}
+sell {'price': 1248, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -5
+cash: 6064
+PnL: 194
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 12
+-----------------------------------------
+bot45 market:
+buy {'price': 761, 'size': 1, 'id': 'bot45'}
+sell {'price': 1255, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -5
+cash: 6064
+PnL: 194
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 13
+-----------------------------------------
+bot45 market:
+buy {'price': 701, 'size': 1, 'id': 'bot45'}
+sell {'price': 1226, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -6
+cash: 7290
+PnL: 246
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 14
+-----------------------------------------
+bot45 market:
+buy {'price': 752, 'size': 1, 'id': 'bot45'}
+sell {'price': 1217, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -7
+cash: 8507
+PnL: 289
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 15
+-----------------------------------------
+bot45 market:
+buy {'price': 717, 'size': 1, 'id': 'bot45'}
+sell {'price': 1239, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -7
+cash: 8507
+PnL: 289
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 16
+-----------------------------------------
+bot45 market:
+buy {'price': 707, 'size': 1, 'id': 'bot45'}
+sell {'price': 1274, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -7
+cash: 8507
+PnL: 289
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 17
+-----------------------------------------
+bot45 market:
+buy {'price': 729, 'size': 1, 'id': 'bot45'}
+sell {'price': 1221, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -8
+cash: 9728
+PnL: 336
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 18
+-----------------------------------------
+bot45 market:
+buy {'price': 764, 'size': 1, 'id': 'bot45'}
+sell {'price': 1294, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -8
+cash: 9728
+PnL: 336
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 19
+-----------------------------------------
+bot45 market:
+buy {'price': 741, 'size': 1, 'id': 'bot45'}
+sell {'price': 1284, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -8
+cash: 9728
+PnL: 336
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 20
+-----------------------------------------
+bot45 market:
+buy {'price': 759, 'size': 1, 'id': 'bot45'}
+sell {'price': 1216, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -9
+cash: 10944
+PnL: 378
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 21
+-----------------------------------------
+bot45 market:
+buy {'price': 744, 'size': 1, 'id': 'bot45'}
+sell {'price': 1278, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -9
+cash: 10944
+PnL: 378
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 22
+-----------------------------------------
+bot45 market:
+buy {'price': 739, 'size': 1, 'id': 'bot45'}
+sell {'price': 1262, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -9
+cash: 10944
+PnL: 378
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 23
+-----------------------------------------
+bot45 market:
+buy {'price': 781, 'size': 1, 'id': 'bot45'}
+sell {'price': 1274, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -9
+cash: 10944
+PnL: 378
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 24
+-----------------------------------------
+bot45 market:
+buy {'price': 727, 'size': 1, 'id': 'bot45'}
+sell {'price': 1246, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -9
+cash: 10944
+PnL: 378
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 25
+-----------------------------------------
+bot45 market:
+buy {'price': 712, 'size': 1, 'id': 'bot45'}
+sell {'price': 1265, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -9
+cash: 10944
+PnL: 378
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 26
+-----------------------------------------
+bot45 market:
+buy {'price': 719, 'size': 1, 'id': 'bot45'}
+sell {'price': 1201, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 27
+-----------------------------------------
+bot45 market:
+buy {'price': 710, 'size': 1, 'id': 'bot45'}
+sell {'price': 1253, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 28
+-----------------------------------------
+bot45 market:
+buy {'price': 775, 'size': 1, 'id': 'bot45'}
+sell {'price': 1275, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 29
+-----------------------------------------
+bot45 market:
+buy {'price': 754, 'size': 1, 'id': 'bot45'}
+sell {'price': 1245, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 30
+-----------------------------------------
+bot45 market:
+buy {'price': 795, 'size': 1, 'id': 'bot45'}
+sell {'price': 1237, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 31
+-----------------------------------------
+bot45 market:
+buy {'price': 739, 'size': 1, 'id': 'bot45'}
+sell {'price': 1235, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 32
+-----------------------------------------
+bot45 market:
+buy {'price': 776, 'size': 1, 'id': 'bot45'}
+sell {'price': 1294, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 33
+-----------------------------------------
+bot45 market:
+buy {'price': 738, 'size': 1, 'id': 'bot45'}
+sell {'price': 1258, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 34
+-----------------------------------------
+bot45 market:
+buy {'price': 774, 'size': 1, 'id': 'bot45'}
+sell {'price': 1283, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 35
+-----------------------------------------
+bot45 market:
+buy {'price': 768, 'size': 1, 'id': 'bot45'}
+sell {'price': 1287, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -10
+cash: 12145
+PnL: 405
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 36
+-----------------------------------------
+bot45 market:
+buy {'price': 754, 'size': 1, 'id': 'bot45'}
+sell {'price': 1206, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -11
+cash: 13351
+PnL: 437
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 37
+-----------------------------------------
+bot45 market:
+buy {'price': 742, 'size': 1, 'id': 'bot45'}
+sell {'price': 1226, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -12
+cash: 14577
+PnL: 489
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 38
+-----------------------------------------
+bot45 market:
+buy {'price': 783, 'size': 1, 'id': 'bot45'}
+sell {'price': 1254, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -12
+cash: 14577
+PnL: 489
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 39
+-----------------------------------------
+bot45 market:
+buy {'price': 795, 'size': 1, 'id': 'bot45'}
+sell {'price': 1249, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -12
+cash: 14577
+PnL: 489
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 40
+-----------------------------------------
+bot45 market:
+buy {'price': 773, 'size': 1, 'id': 'bot45'}
+sell {'price': 1224, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -13
+cash: 15801
+PnL: 539
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 41
+-----------------------------------------
+bot45 market:
+buy {'price': 716, 'size': 1, 'id': 'bot45'}
+sell {'price': 1238, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -13
+cash: 15801
+PnL: 539
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 42
+-----------------------------------------
+bot45 market:
+buy {'price': 766, 'size': 1, 'id': 'bot45'}
+sell {'price': 1294, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -13
+cash: 15801
+PnL: 539
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 43
+-----------------------------------------
+bot45 market:
+buy {'price': 721, 'size': 1, 'id': 'bot45'}
+sell {'price': 1285, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -13
+cash: 15801
+PnL: 539
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 44
+-----------------------------------------
+bot45 market:
+buy {'price': 725, 'size': 1, 'id': 'bot45'}
+sell {'price': 1293, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -13
+cash: 15801
+PnL: 539
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 45
+-----------------------------------------
+bot45 market:
+buy {'price': 775, 'size': 1, 'id': 'bot45'}
+sell {'price': 1207, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -14
+cash: 17008
+PnL: 572
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 46
+-----------------------------------------
+bot45 market:
+buy {'price': 725, 'size': 1, 'id': 'bot45'}
+sell {'price': 1291, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -14
+cash: 17008
+PnL: 572
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 47
+-----------------------------------------
+bot45 market:
+buy {'price': 767, 'size': 1, 'id': 'bot45'}
+sell {'price': 1295, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -14
+cash: 17008
+PnL: 572
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 48
+-----------------------------------------
+bot45 market:
+buy {'price': 784, 'size': 1, 'id': 'bot45'}
+sell {'price': 1235, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -14
+cash: 17008
+PnL: 572
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 49
+-----------------------------------------
+bot45 market:
+buy {'price': 780, 'size': 1, 'id': 'bot45'}
+sell {'price': 1250, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -14
+cash: 17008
+PnL: 572
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 50
+-----------------------------------------
+bot45 market:
+buy {'price': 757, 'size': 1, 'id': 'bot45'}
+sell {'price': 1279, 'size': 1, 'id': 'bot45'}
+
+bot45 info post trading:
+pos: -14
+cash: 17008
+PnL: 572
+#Trades: 0
+
+-----------------------------------------
+FINAL PNL: 572

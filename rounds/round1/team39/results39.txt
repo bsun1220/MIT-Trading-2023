@@ -1,0 +1,654 @@
+Detailed results for team 39:
+Report generated at: 2022-11-06 00:24:14.580910-04:00
+-----------------------------------------
+INFO FOR PERIOD 1
+-----------------------------------------
+bot39 market:
+buy {'price': 737, 'size': 1, 'id': 'bot39'}
+sell {'price': 1258, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: 0
+cash: 0
+PnL: 0
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 2
+-----------------------------------------
+bot39 market:
+buy {'price': 717, 'size': 1, 'id': 'bot39'}
+sell {'price': 1246, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: 0
+cash: 0
+PnL: 0
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 3
+-----------------------------------------
+bot39 market:
+buy {'price': 748, 'size': 1, 'id': 'bot39'}
+sell {'price': 1257, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: 0
+cash: 0
+PnL: 0
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 4
+-----------------------------------------
+bot39 market:
+buy {'price': 758, 'size': 1, 'id': 'bot39'}
+sell {'price': 1288, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: 0
+cash: 0
+PnL: 0
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 5
+-----------------------------------------
+bot39 market:
+buy {'price': 742, 'size': 1, 'id': 'bot39'}
+sell {'price': 1284, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: 0
+cash: 0
+PnL: 0
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 6
+-----------------------------------------
+bot39 market:
+buy {'price': 742, 'size': 1, 'id': 'bot39'}
+sell {'price': 1269, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: 0
+cash: 0
+PnL: 0
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 7
+-----------------------------------------
+bot39 market:
+buy {'price': 721, 'size': 1, 'id': 'bot39'}
+sell {'price': 1283, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: 0
+cash: 0
+PnL: 0
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 8
+-----------------------------------------
+bot39 market:
+buy {'price': 795, 'size': 1, 'id': 'bot39'}
+sell {'price': 1217, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -1
+cash: 1217
+PnL: 43
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 9
+-----------------------------------------
+bot39 market:
+buy {'price': 721, 'size': 1, 'id': 'bot39'}
+sell {'price': 1225, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -2
+cash: 2442
+PnL: 94
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 10
+-----------------------------------------
+bot39 market:
+buy {'price': 740, 'size': 1, 'id': 'bot39'}
+sell {'price': 1261, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -2
+cash: 2442
+PnL: 94
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 11
+-----------------------------------------
+bot39 market:
+buy {'price': 769, 'size': 1, 'id': 'bot39'}
+sell {'price': 1262, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -2
+cash: 2442
+PnL: 94
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 12
+-----------------------------------------
+bot39 market:
+buy {'price': 726, 'size': 1, 'id': 'bot39'}
+sell {'price': 1300, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -2
+cash: 2442
+PnL: 94
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 13
+-----------------------------------------
+bot39 market:
+buy {'price': 735, 'size': 1, 'id': 'bot39'}
+sell {'price': 1205, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -3
+cash: 3647
+PnL: 125
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 14
+-----------------------------------------
+bot39 market:
+buy {'price': 715, 'size': 1, 'id': 'bot39'}
+sell {'price': 1223, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -4
+cash: 4870
+PnL: 174
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 15
+-----------------------------------------
+bot39 market:
+buy {'price': 707, 'size': 1, 'id': 'bot39'}
+sell {'price': 1229, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -5
+cash: 6099
+PnL: 229
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 16
+-----------------------------------------
+bot39 market:
+buy {'price': 734, 'size': 1, 'id': 'bot39'}
+sell {'price': 1209, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -6
+cash: 7308
+PnL: 264
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 17
+-----------------------------------------
+bot39 market:
+buy {'price': 709, 'size': 1, 'id': 'bot39'}
+sell {'price': 1236, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -7
+cash: 8544
+PnL: 326
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 18
+-----------------------------------------
+bot39 market:
+buy {'price': 788, 'size': 1, 'id': 'bot39'}
+sell {'price': 1258, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -7
+cash: 8544
+PnL: 326
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 19
+-----------------------------------------
+bot39 market:
+buy {'price': 731, 'size': 1, 'id': 'bot39'}
+sell {'price': 1223, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -8
+cash: 9767
+PnL: 375
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 20
+-----------------------------------------
+bot39 market:
+buy {'price': 702, 'size': 1, 'id': 'bot39'}
+sell {'price': 1247, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -8
+cash: 9767
+PnL: 375
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 21
+-----------------------------------------
+bot39 market:
+buy {'price': 774, 'size': 1, 'id': 'bot39'}
+sell {'price': 1216, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -9
+cash: 10983
+PnL: 417
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 22
+-----------------------------------------
+bot39 market:
+buy {'price': 749, 'size': 1, 'id': 'bot39'}
+sell {'price': 1235, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -10
+cash: 12218
+PnL: 478
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 23
+-----------------------------------------
+bot39 market:
+buy {'price': 799, 'size': 1, 'id': 'bot39'}
+sell {'price': 1214, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -11
+cash: 13432
+PnL: 518
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 24
+-----------------------------------------
+bot39 market:
+buy {'price': 791, 'size': 1, 'id': 'bot39'}
+sell {'price': 1236, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -12
+cash: 14668
+PnL: 580
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 25
+-----------------------------------------
+bot39 market:
+buy {'price': 734, 'size': 1, 'id': 'bot39'}
+sell {'price': 1283, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -12
+cash: 14668
+PnL: 580
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 26
+-----------------------------------------
+bot39 market:
+buy {'price': 763, 'size': 1, 'id': 'bot39'}
+sell {'price': 1235, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 27
+-----------------------------------------
+bot39 market:
+buy {'price': 703, 'size': 1, 'id': 'bot39'}
+sell {'price': 1242, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 28
+-----------------------------------------
+bot39 market:
+buy {'price': 787, 'size': 1, 'id': 'bot39'}
+sell {'price': 1274, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 29
+-----------------------------------------
+bot39 market:
+buy {'price': 709, 'size': 1, 'id': 'bot39'}
+sell {'price': 1251, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 30
+-----------------------------------------
+bot39 market:
+buy {'price': 776, 'size': 1, 'id': 'bot39'}
+sell {'price': 1279, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 31
+-----------------------------------------
+bot39 market:
+buy {'price': 754, 'size': 1, 'id': 'bot39'}
+sell {'price': 1273, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 32
+-----------------------------------------
+bot39 market:
+buy {'price': 751, 'size': 1, 'id': 'bot39'}
+sell {'price': 1290, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 33
+-----------------------------------------
+bot39 market:
+buy {'price': 722, 'size': 1, 'id': 'bot39'}
+sell {'price': 1285, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 34
+-----------------------------------------
+bot39 market:
+buy {'price': 721, 'size': 1, 'id': 'bot39'}
+sell {'price': 1248, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 35
+-----------------------------------------
+bot39 market:
+buy {'price': 731, 'size': 1, 'id': 'bot39'}
+sell {'price': 1245, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -13
+cash: 15903
+PnL: 641
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 36
+-----------------------------------------
+bot39 market:
+buy {'price': 719, 'size': 1, 'id': 'bot39'}
+sell {'price': 1207, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -14
+cash: 17110
+PnL: 674
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 37
+-----------------------------------------
+bot39 market:
+buy {'price': 708, 'size': 1, 'id': 'bot39'}
+sell {'price': 1225, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -15
+cash: 18335
+PnL: 725
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 38
+-----------------------------------------
+bot39 market:
+buy {'price': 758, 'size': 1, 'id': 'bot39'}
+sell {'price': 1280, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -15
+cash: 18335
+PnL: 725
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 39
+-----------------------------------------
+bot39 market:
+buy {'price': 709, 'size': 1, 'id': 'bot39'}
+sell {'price': 1273, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -15
+cash: 18335
+PnL: 725
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 40
+-----------------------------------------
+bot39 market:
+buy {'price': 729, 'size': 1, 'id': 'bot39'}
+sell {'price': 1220, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -16
+cash: 19555
+PnL: 771
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 41
+-----------------------------------------
+bot39 market:
+buy {'price': 732, 'size': 1, 'id': 'bot39'}
+sell {'price': 1231, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -17
+cash: 20786
+PnL: 828
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 42
+-----------------------------------------
+bot39 market:
+buy {'price': 726, 'size': 1, 'id': 'bot39'}
+sell {'price': 1203, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -18
+cash: 21989
+PnL: 857
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 43
+-----------------------------------------
+bot39 market:
+buy {'price': 784, 'size': 1, 'id': 'bot39'}
+sell {'price': 1240, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -18
+cash: 21989
+PnL: 857
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 44
+-----------------------------------------
+bot39 market:
+buy {'price': 717, 'size': 1, 'id': 'bot39'}
+sell {'price': 1296, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -18
+cash: 21989
+PnL: 857
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 45
+-----------------------------------------
+bot39 market:
+buy {'price': 795, 'size': 1, 'id': 'bot39'}
+sell {'price': 1212, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -19
+cash: 23201
+PnL: 895
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 46
+-----------------------------------------
+bot39 market:
+buy {'price': 715, 'size': 1, 'id': 'bot39'}
+sell {'price': 1242, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -19
+cash: 23201
+PnL: 895
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 47
+-----------------------------------------
+bot39 market:
+buy {'price': 743, 'size': 1, 'id': 'bot39'}
+sell {'price': 1218, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -20
+cash: 24419
+PnL: 939
+#Trades: 1
+
+-----------------------------------------
+INFO FOR PERIOD 48
+-----------------------------------------
+bot39 market:
+buy {'price': 773, 'size': 1, 'id': 'bot39'}
+sell {'price': 1266, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -20
+cash: 24419
+PnL: 939
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 49
+-----------------------------------------
+bot39 market:
+buy {'price': 784, 'size': 1, 'id': 'bot39'}
+sell {'price': 1264, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -20
+cash: 24419
+PnL: 939
+#Trades: 0
+
+-----------------------------------------
+INFO FOR PERIOD 50
+-----------------------------------------
+bot39 market:
+buy {'price': 718, 'size': 1, 'id': 'bot39'}
+sell {'price': 1253, 'size': 1, 'id': 'bot39'}
+
+bot39 info post trading:
+pos: -20
+cash: 24419
+PnL: 939
+#Trades: 0
+
+-----------------------------------------
+FINAL PNL: 939
